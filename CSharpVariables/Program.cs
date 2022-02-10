@@ -16,7 +16,24 @@ namespace StaticClassAttributes //same name as the project we are using. we are 
             Console.WriteLine(" /  |");
             Console.WriteLine("/___|");
 
+
+
+            //type of data that i want the variables to store. remember variables are like containers. 
+            string characterName = "John"; //giving a value
+            int characterAge; //declaring a variable 
+            characterAge = 35; //assigning a value to the variable
+
+            Console.WriteLine("There once was a man named " + characterName);
+            Console.WriteLine("He was " + characterAge + " years old");
+            Console.WriteLine("He really liked the name " + characterName);
+            Console.WriteLine("But didn't like being " + characterAge);
+
+
+
+
             Console.ReadLine();
+
+
 
 
         }
@@ -30,6 +47,10 @@ namespace StaticClassAttributes //same name as the project we are using. we are 
 }
 
 /*
- Just a set of instructions that the computer is going to follow the order of those instructions.
+ Topic: What is the set up for program.cs?
+Just a set of instructions that the computer is going to follow the order of those instructions.
 
+
+Topic: What is variables?
+variable store a specific data valu. and then when i want to use that data value. 
  */
