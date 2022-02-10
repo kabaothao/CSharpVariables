@@ -19,7 +19,7 @@ namespace StaticClassAttributes //same name as the project we are using. we are 
 
 
             //type of data that i want the variables to store. remember variables are like containers. 
-            string characterName = "John"; //giving a value
+            string characterName = "John"; //giving a value //now i can update throughout the entire stories. keep track of to manage those information. 
             int characterAge; //declaring a variable 
             characterAge = 35; //assigning a value to the variable
 
