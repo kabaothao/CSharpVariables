@@ -53,4 +53,6 @@ Just a set of instructions that the computer is going to follow the order of tho
 
 Topic: What is variables?
 variable store a specific data valu. and then when i want to use that data value. 
+
+Overall we lean how to create variables, and we learn how to use them inside of like a print statement.
  */
